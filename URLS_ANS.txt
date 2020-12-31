@@ -1,0 +1,22 @@
+Parametros URL:
+userid=penanoprod
+password=PRDAUpent001
+codOperadora=360449
+
+
+Geral com Menus:
+http://www.ans.gov.br/pentaho/api/repos/:public:Sala%20Externo:SalaPrincipal.wcdf/generatedContent?userid=penanoprod&password=PRDAUpent001&codOperadora=366811
+
+
+Resumo Operadora:
+http://www.ans.gov.br/pentaho/api/repos/:public:Sala%20Externo:Sala%20de%20Situacao.wcdf/generatedContent?userid=penanoprod&password=PRDAUpent001&codOperadora=360449
+
+
+Composição da Carteira:
+http://www.ans.gov.br/pentaho/api/repos/:public:Sala%20Externo:ComposicaoCarteira.wcdf/generatedContent?userid=penanoprod&password=PRDAUpent001&codOperadora=360449
+
+
+Ressarcimento ao SUS:
+http://www.ans.gov.br/pentaho/api/repos/:public:Sala%20Externo:Ressarcimento.wcdf/generatedContent?userid=penanoprod&password=PRDAUpent001&codOperadora=360449
+
+
